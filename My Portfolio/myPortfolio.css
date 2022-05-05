@@ -1,7 +1,12 @@
-h1{
+h1 {
     text-align: center;
 }
 
-nav{
-    text-align: center; font-weight: 900;
+nav {
+    text-align: center;
+    font-weight: 900;
+}
+
+.label {
+    color: blue;
 }

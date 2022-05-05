@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.missing {
+    color: red;
+}
+
+.brother {
+    text-transform: capitalize;
+    color: blueviolet;
+}
