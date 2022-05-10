@@ -1,7 +1,16 @@
 h1 {
     text-align: center;
+    border-radius: 10px;
     border-style: dotted;
-    border-color: blue;
+    border-color: rgba(1, 22, 204, 0.3);
+    padding: 100px;
+    margin: auto;
+    transition: 3s;
+
+}
+
+h1:hover {
+    color: chartreuse;
 }
 
 .missing {
@@ -11,4 +20,14 @@ h1 {
 .brother {
     text-transform: capitalize;
     color: blueviolet;
+}
+
+p {
+    text-align: center;
+    /*display: inline;*/
+    /*border: 4px solid black;*/
+}
+
+button {
+    margin-right: 0.4%;
 }
